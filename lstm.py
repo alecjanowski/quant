@@ -29,7 +29,7 @@ from keras.utils.np_utils import to_categorical
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics import confusion_matrix, accuracy_score
 from sklearn.model_selection import train_test_split
-
+#TRIAL
 alloweddepts="HUMBIO,PWR,BIO,MS&E,POLISCI,ME,EDUC,HISTORY,CEE,CS".split(",")
 
 #collect all reviews and the corresponding departments they belong to in departments
